@@ -42,7 +42,6 @@ function Footer() {
                 <FaLinkedinIn />
               </a>
             </li>
-            
           </ul>
         </Col>
       </Row>
